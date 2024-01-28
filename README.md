@@ -44,7 +44,6 @@ An implementation of a simple ATM machine with a user interface. It includes opt
 
 - `NumberGame.java`: Contains the implementation of the Number Game.
 - `StudentGradeCalculator.java`: Contains the implementation of the Student Grade Calculator.
-- `Main.java`: Contains the implementation of the ATM Machine along with the main method.
 - `ATM.java`: Contains the ATM and BankAccount classes for the ATM Machine.
 - `README.md`: You are here.
 
