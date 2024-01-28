@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class StudentGradeCalculator {
 
-    // Constants for grade ranges
+    // Constants for gradin criteria
     private static final int A_PLUS_THRESHOLD = 85;
     private static final int A_THRESHOLD = 75;
     private static final int B_THRESHOLD = 65;
