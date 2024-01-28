@@ -14,7 +14,7 @@ public class NumberGame {
         int rounds = 0;
         int totalScore = 0;
 
-        // Welcome message and game instructions
+        // Welcome message and game instructions for number game
         System.out.println("Welcome to the Number Guessing Game!!!");
         System.out.println("Instructions:");
         System.out.println("1. You have to guess the correct number between " + LOWER_BOUND + " and " + UPPER_BOUND + ".");
